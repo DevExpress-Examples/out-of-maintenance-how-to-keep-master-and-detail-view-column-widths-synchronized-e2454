@@ -64,6 +64,7 @@ namespace GridViewDetailColumnWidth
                 var view = currentView.GetDetailView(e.RowHandle, e.RelationIndex) as MyGridView;
                 if(view == null)
                     return;
+		UpdateDetailViewsLeftCoord();    
                 currentView.AutoSynchronizeDetailsColumnWidths();
             }
         }
