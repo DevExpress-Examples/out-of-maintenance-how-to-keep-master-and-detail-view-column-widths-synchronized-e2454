@@ -68,6 +68,7 @@ Namespace GridViewDetailColumnWidth
 				If view Is Nothing Then
 					Return
 				End If
+				UpdateDetailViewsLeftCoord()
 				currentView.AutoSynchronizeDetailsColumnWidths()
 			End If
 		End Sub
