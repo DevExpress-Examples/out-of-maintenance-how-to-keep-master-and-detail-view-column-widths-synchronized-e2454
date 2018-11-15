@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyGridControl.cs](./CS/GridViewDetailColumnWidth/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/GridViewDetailColumnWidth/MyGridControl.vb))
+* [MyGridInfoRegistrator.cs](./CS/GridViewDetailColumnWidth/MyGridInfoRegistrator.cs) (VB: [MyGridInfoRegistrator.vb](./VB/GridViewDetailColumnWidth/MyGridInfoRegistrator.vb))
+* [MyGridOptionsView.cs](./CS/GridViewDetailColumnWidth/MyGridOptionsView.cs) (VB: [MyGridOptionsView.vb](./VB/GridViewDetailColumnWidth/MyGridOptionsView.vb))
+* [MyGridView.cs](./CS/GridViewDetailColumnWidth/MyGridView.cs) (VB: [MyGridViewInfo.vb](./VB/GridViewDetailColumnWidth/MyGridViewInfo.vb))
+* [MyGridViewInfo.cs](./CS/GridViewDetailColumnWidth/MyGridViewInfo.cs) (VB: [MyGridViewInfo.vb](./VB/GridViewDetailColumnWidth/MyGridViewInfo.vb))
+<!-- default file list end -->
 # How to keep master and detail view column widths synchronized
 
 
